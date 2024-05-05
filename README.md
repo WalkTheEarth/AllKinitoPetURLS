@@ -11,3 +11,4 @@
 8. https://www.kinitopet.com/email
 9. https://www.kinitopet.com/data
 10. https://www.kinitopet.com/imsorry
+11. https://www.kinitopet.com/games/web_world
